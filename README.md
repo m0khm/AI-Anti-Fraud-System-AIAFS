@@ -1,2 +1,2 @@
-# AI-Anti---Fraud-System-AIAFS-
+# AI-Anti-Fraud-System-AIAFS
 AI system
